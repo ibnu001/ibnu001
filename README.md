@@ -3,8 +3,8 @@
 ### Github Statistic
 <div align="center">
   <a href="https://github.com/ibnu001">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibnu001&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibnu001&layout=compact&langs_count=8&theme=swift"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibnu001&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ibnu001&layout=compact&langs_count=8&theme=swift"/>
   </a>
 </div><br>
 
