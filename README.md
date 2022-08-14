@@ -1,11 +1,13 @@
-
 <div align="center">
-	<h2> Hi there, I'm Ibnu! 👋</h2>
+<h2> Hi there, I'm Ibnu! 👋</h2>
 	
-  <samp> . . .
-  </samp>
-  <br> <br>
+<samp> 
+	. . .
+</samp>
+<br> 
 </div>
+
+<hr>
 
 <div align="center">
 <h2> Github Statistic </h2>
@@ -16,7 +18,6 @@
 </a>
 <br> <br>
 </div>
-
 
 <div align="center">
     <img gravity="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;&nbsp;
