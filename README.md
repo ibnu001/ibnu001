@@ -12,5 +12,5 @@ Next.js • React • TypeScript • Tailwind CSS • SolidStart • Go • Mong
 ---
 
 ### 📫 Find me
-- GitHub: [@ibnu001](https://github.com/ibnualyazzar)
+- GitHub: [@ibnu001](https://github.com/ibnu001)
 - LinkedIn: [Muhammad Ibnu Al Yazzar](https://www.linkedin.com/in/muhammadibnualyazzar/)
