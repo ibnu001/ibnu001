@@ -7,7 +7,7 @@ Also made a **landing page using SolidStart** — simple, fast, and fun to build
 ---
 
 ### ⚙️ Tech I use
-Next.js • React • TypeScript • Tailwind CSS • SolidStart • Go • MongoDB
+Next.js • React • TypeScript • Tailwind CSS
 
 ---
 
